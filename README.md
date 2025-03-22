@@ -38,10 +38,10 @@ Tools: Git, Postman, VS Code
 
 📫 Connect With Me
 
-LinkedIn: Christopher A.
+LinkedIn: https://www.linkedin.com/in/chris-2oo4/
 
 GitHub: Chris-7777
 
-Email: your-christ234r@gmail.com
+Email:christ234r@gmail.com
 
 Let's collaborate and build something amazing! 🚀
