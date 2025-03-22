@@ -40,7 +40,7 @@ Tools: Git, Postman, VS Code
 
 LinkedIn: https://www.linkedin.com/in/chris-2oo4/
 
-GitHub: Chris-7777
+GitHub: https://github.com/CHRIS-7777
 
 Email:christ234r@gmail.com
 
