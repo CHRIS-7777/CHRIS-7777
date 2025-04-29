@@ -16,7 +16,7 @@
 ---
 
 ### 🛠️ Projects
-
+- 💻 **Education Tracker App** – A Tracker app with the Project Build and learn puzzle game  
 - 🔤 **Word Quest App** – A word search puzzle game  
 - 🎵 **Spotify Clone** – Music streaming UI using Flutter  
 - 🔧 **API Testing Tool** – Postman-like app to debug APIs  
