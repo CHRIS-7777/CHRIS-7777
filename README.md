@@ -1,47 +1,63 @@
-👋 Hey there! I'm Christopher A.
+<h1 align="center">Hi 👋, I'm Christopher A.</h1>
+<h3 align="center">🚀 Ethical Hacker | Flutter & Android Dev | React.js Enthusiast</h3>
 
-I'm an Ethical Hacker, Penetration Tester, Flutter Developer, Android Application Developer, and a React.js Developer. Passionate about building secure and scalable applications, I love exploring the intersection of cybersecurity and software development.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&lines=Passionate+about+Cybersecurity+%26+Development;Building+secure+and+scalable+apps+%F0%9F%94%91;Exploring+tech+at+the+core+%F0%9F%92%BB" alt="Typing SVG" />
+</p>
 
-🚀 What I Do
+---
 
-Ethical Hacking & Penetration Testing: Identifying vulnerabilities and securing applications.
+### 👨‍💻 About Me
 
-Flutter Development: Creating beautiful cross-platform mobile applications.
+- 🔐 Ethical Hacker & Penetration Tester  
+- 📱 Flutter & Android App Developer  
+- 💻 React.js Web Developer  
+- 🧠 Always learning and building projects that matter  
 
-Android App Development: Native Android apps with seamless user experiences.
+---
 
-React.js: Crafting responsive and dynamic web applications.
+### 🛠️ Projects
 
-🛠️ Projects
+- 🔤 **Word Quest App** – A word search puzzle game  
+- 🎵 **Spotify Clone** – Music streaming UI using Flutter  
+- 🔧 **API Testing Tool** – Postman-like app to debug APIs  
+- 🧠 **MCQ Quiz App** – Multiplayer quiz using Firestore  
 
-Word Quest App - A word search puzzle game.
+---
 
-Spotify Clone - Music streaming application built using Flutter.
+### 🧰 Skills & Tools
 
-API Testing Tool - A Postman-like app to test and debug APIs.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,flutter,androidstudio,react,html,css,nodejs,firebase,git,vscode,postman,linux" />
+</p>
 
-MCQ Quiz App - A multiplayer quiz app using Firestore for real-time data.
+---
 
-🧑‍💻 Skills & Tools
+### 📊 GitHub Stats
 
-Programming Languages: C++, Java, Python, JavaScript
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CHRIS-7777&show_icons=true&theme=tokyonight&count_private=true" height="170px"/>
+  <img src="https://streak-stats.demolab.com?user=CHRIS-7777&theme=tokyonight" height="170px"/>
+</p>
 
-Mobile Development: Flutter, Android Studio
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHRIS-7777&layout=compact&theme=tokyonight" height="140px"/>
+</p>
 
-Web Development: React.js, HTML, CSS
+---
 
-Cybersecurity: Penetration Testing, Vulnerability Assessment
+### 📫 Connect With Me
 
-Backend: Firebase, Node.js
+<p align="center">
+  <a href="mailto:christ234r@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/chris-2oo4/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/CHRIS-7777"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
-Tools: Git, Postman, VS Code
+---
 
-📫 Connect With Me
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
-LinkedIn: https://www.linkedin.com/in/chris-2oo4/
-
-GitHub: https://github.com/CHRIS-7777
-
-Email:christ234r@gmail.com
-
-Let's collaborate and build something amazing! 🚀
+---
