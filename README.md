@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Ethical Hacker | Flutter & Android Dev | React.js Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Ethical+Hacker;Flutter+Developer;React.js+Developer;Dart+For+Apllication+ building;Penetration+Tester;Android+App+Developer;Cybersecurity+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Ethical+Hacker;Flutter+Developer;React.js+Developer;Dart+For+Apllication+building;Penetration+Tester;Android+App+Developer;Cybersecurity+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 ---
 
