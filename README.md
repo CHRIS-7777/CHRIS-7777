@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Christopher A.</h1>
 <h3 align="center">🚀 Ethical Hacker | Flutter & Android Dev | React.js Enthusiast</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&lines=Passionate+about+Cybersecurity+%26+Development;Building+secure+and+scalable+apps+%F0%9F%94%91;Exploring+tech+at+the+core+%F0%9F%92%BB" alt="Typing SVG" />
-</p>
 
 ---
 
