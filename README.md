@@ -12,42 +12,44 @@ I’m a passionate **Ethical Hacker** and **Full-Stack Developer**, combining de
 
 ---
 
-### 🧰 Expertise & Tools
-
 <div align="center">
 
-<!-- Languages -->
-<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=orange" />
-<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=orange" />
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=orange" />
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=orange" />
+### 🖥️ **Languages**
+<br>
+<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=orange" height="35px" />
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=orange" height="35px" />
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=orange" height="35px" />
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=orange" height="35px" />
 
-<!-- Frontend & Mobile -->
 <br><br>
-<img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=orange" />
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=orange" />
-<img src="https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=orange" />
-<img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=orange" />
-<img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=orange" />
 
-<!-- Backend & Security -->
-<br><br>
-<img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=orange" />
-<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=orange" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=orange" />
-<img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=orange" />
+### 📱 **Mobile & Frontend**
+<br>
+<img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=orange" height="35px" />
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=orange" height="35px" />
+<img src="https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=orange" height="35px" />
+<img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=orange" height="35px" />
+<img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=orange" height="35px" />
 
-<!-- Tools -->
 <br><br>
-<img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=orange" />
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=orange" />
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=orange" />
-<img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=orange" />
+
+### 🔐 **Backend & Security**
+<br>
+<img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=orange" height="35px" />
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=orange" height="35px" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=orange" height="35px" />
+<img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=orange" height="35px" />
+
+<br><br>
+
+### 🧩 **Tools & Platforms**
+<br>
+<img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=orange" height="35px" />
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=orange" height="35px" />
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=orange" height="35px" />
+<img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=orange" height="35px" />
 
 </div>
-
----
-
 ### 🔥 GitHub Stats & Trophies
 
 <div align="center">
