@@ -1,7 +1,7 @@
 <h1 align="center">🧑‍💻 Hey, I'm Christopher A.</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFA500&center=true&vCenter=true&width=500&lines=Ethical+Hacker;Flutter+Developer;React.js+Developer;Penetration+Tester;Android+App+Developer;Cybersecurity+Expert" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=#69F0AE&center=true&vCenter=true&width=500&lines=Ethical+Hacker;Flutter+Developer;React.js+Developer;Penetration+Tester;Android+App+Developer;Cybersecurity+Expert" alt="Typing Animation" />
 </p>
 
 ---
